@@ -1,0 +1,13 @@
+{
+    "name": "graphql_easy",
+    "type": "drupal-module",
+    "description": "Extends the API provided by drupal/graphql with a cleaner API along with a library of resolver plugins and dataproviders.",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/graphql_easy",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/graphql_easy",
+        "source": "http://cgit.drupalcode.org/graphql_easy",
+    },
+}

@@ -1,0 +1,5 @@
+name: 'GraphQL Easy'
+type: module
+description: 'Extends the API provided by drupal/graphql with a cleaner API along with a library of resolver plugins and dataproviders.'
+core_version_requirement: ^8 || ^9
+package: 'Custom'
