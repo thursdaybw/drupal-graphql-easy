@@ -17,6 +17,6 @@
 	}
     ],
     "require": {
-        "drupal/graphql": "4.3.0"
+        "drupal/graphql": "^4.5"
     }
 }
